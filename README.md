@@ -15,7 +15,8 @@ Python을 이용한 레시피 데이터를 크롤링  ->  https://www.10000recip
 데이터는 JSON 형태로 MySql에 저장됨.
 오직 비회원제로 운영되기때문에 이는 SQLite로 관리됨.
 
-# 첨부된 pdf 참고
+# 자세한 소개
+첨부된 pdf 참고
 
 # 구동 영상
 # https://www.youtube.com/watch?v=Y7ZW2qbBW5c&feature=youtu.be
