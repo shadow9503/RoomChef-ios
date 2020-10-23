@@ -8,8 +8,8 @@
 각 레시피에대한 후기글 작성기능 존재  
 
 # 개발환경
-xcode 환경에서 개발되어짐
-서버환경 Tomcat 8.5
+xcode 환경에서 개발되어짐  
+서버환경 Tomcat 8.5  
 
 DB는 MySql, SQLite 사용  
 Python을 이용한 레시피 데이터를 크롤링  ->  https://www.10000recipe.com/  
